@@ -1,21 +1,14 @@
-<!DOCTYPE  html>
+<!DOCTYPE html>
 <html>
-<head>
-  <title>Page Title</title>title>
-</head>
-<body>
-<h1>Introducing idol Tsai Huangru</h1>
-  <h2>About My Idol
-  <p>我的偶像是</歌手>蔡黃汝(豆花)</strong>.
-    她是一位台灣歌手和演員，他為我帶來了很多啟發和鼓勵</p>
-   <h2>Representative Works</h2>
-  <p>在音樂方面，他已經發佈了多首歌曲，例如（"煙火")</em>.
-     在演藝方面，他出演過許多電視劇，例如（我的青春沒在怕），展出了他在音樂和表演方面的才華</p>
-  <h2>Photo</h2>
-  <[img https://www.google.com/imgres?q=%E8%B1%86%E8%8A%B1%20%E8%94%A1%E9%BB%83%E6%B1%9D&imgurl=https%3A%2F%2Fcc.tvbs.com.tw%2Fimg%2Fupload%2F2023%2F11%2F15%2F20231115221539-4f6db210.jpg&imgrefurl=https%3A%2F%2Fnews.tvbs.com.tw%2Fentertainment%2F2306294&docid=sNk174Zwy5DJ1M&tbnid=GWj9hrDxdCEhPM&vet=12ahUKEwiL6-DytoKQAxXDffUHHRcHBwsQM3oECBoQAA..i&w=1060&h=596&hcb=2&ved=2ahUKEwiL6-DytoKQAxXDffUHHRcHBwsQM3oECBoQAA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tsai_Huang-Ju_2025_portrait.jpg/250px-Tsai_Huang-Ju_2025_portrait.jpg)="Tsai Huangru photo">
-  <h2>More Information</h2>
-  <p>If you want to know more, you can visit:
-  <a > https://zh.wikipedia.org/zh-tw/%E8%94%A1%E9%BB%83%E6%B1%9D
-  </p>
+<body bgcolor="lightblue">
+<h1>偶像介紹</h1>
+<h2>蔡黃汝(豆花)</h2>
+<img src=https://s.yimg.com/ny/api/res/1.2/Y5iqEjj_dFQuZ4mpKnwifw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEyODA7Y2Y9d2VicA--/https://media.zenfs.com/ko/setn.com.tw/ccab1cd4f0d769a41adcbd8ac6dbadcc width="500">
+<h2>介紹</h2>
+<p>蔡黃汝 藝名豆花妹  歌手 演員<p>
+<p>蔡黃汝出生於台灣，從小個性活潑外向，學生時期因甜美外型被簽入演藝圈</p>
+<p>她代表的作品電視劇(我的青春沒在帕)(已獨不回的戀人) 歌曲(迷人的危險)(煙火)(傷得起)(預言)</p>
+<p>她在2021年參與飢餓遊戲女主持人選拔賽當中，總成績以第二名加入飢餓遊戲女主持人</p>
+<p>近年來持續在音樂與戲劇領域發展，憑藉溫暖真誠的個性與努力形象，深受粉絲喜愛</p>
 </body>
 </html>
